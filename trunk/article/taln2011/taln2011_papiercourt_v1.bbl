@@ -1,0 +1,66 @@
+\begin{thebibliography}{~~~}
+
+\bibitem[\protect\citename{Chang \& Chen, }1997]{chang_alignment_1997}
+{\sc Chang J.~S. \& Chen M.~H.} (1997).
+\newblock An alignment method for noisy parallel corpora based on image
+  processing techniques.
+\newblock In {\em Proceedings of the eighth conference on European chapter of
+  the Association for Computational Linguistics}, p.\ 297--304, Madrid, Spain:
+  Association for Computational Linguistics.
+
+\bibitem[\protect\citename{Church, }1993]{church_char_align:_1993}
+{\sc Church K.~W.} (1993).
+\newblock Char\_align: a program for aligning parallel texts at the character
+  level.
+\newblock In {\em Proceedings of the 31st annual meeting on Association for
+  Computational Linguistics}, {ACL} '93, p.\ 1--8, Stroudsburg, {PA,} {USA}:
+  Association for Computational Linguistics.
+\newblock {ACM} {ID:} 981575.
+
+\bibitem[\protect\citename{Church \& Helfman, }1993]{church_dotplot:_1993}
+{\sc Church K.~W. \& Helfman J.~I.} (1993).
+\newblock Dotplot: A program for exploring {Self-Similarity} in millions of
+  lines of text and code.
+\newblock {\em Journal of Computational and Graphical Statistics}, {\bf 2}(2),
+  153--174.
+\newblock {ArticleType:} research-article / Full publication date: Jun., 1993 /
+  Copyright {\textcopyright} 1993 American Statistical Association, Institute
+  of Mathematical Statistics and Interface Foundation of America.
+
+\bibitem[\protect\citename{Cromieres, }2006]{cromieres_sub-sentential_2006}
+{\sc Cromieres F.} (2006).
+\newblock Sub-sentential alignment using substring co-occurrence counts.
+\newblock In {\em Proceedings of the 21st International Conference on
+  computational Linguistics and 44th Annual Meeting of the Association for
+  Computational Linguistics: Student Research Workshop}, p.\ 13--18, Sydney,
+  Australia: Association for Computational Linguistics.
+
+\bibitem[\protect\citename{Dagan {\em et~al.}, }1993]{dagan_robust_1993}
+{\sc Dagan I., Church K.~W. \& Gale W.~A.} (1993).
+\newblock Robust bilingual word alignment for machine aided translation.
+\newblock {\em {IN} {PROCEEDINGS} {OF} {THE} {WORKSHOP} {ON} {VERY} {LARGE}
+  {CORPORA}}, {\bf 1}, 1----8.
+
+\bibitem[\protect\citename{Fung \& Church, }1994]{fung_k-vec:_1994}
+{\sc Fung P. \& Church K.~W.} (1994).
+\newblock K-vec: a new approach for aligning parallel texts.
+\newblock In {\em Proceedings of the 15th conference on Computational
+  linguistics - Volume 2}, p.\ 1096--1102, Kyoto, Japan: Association for
+  Computational Linguistics.
+
+\bibitem[\protect\citename{Fung \& Mckeown, }1994]{fung_aligning_1994}
+{\sc Fung P. \& Mckeown K.} (1994).
+\newblock Aligning noisy parallel corpora across language groups: Word pair
+  feature matching by dynamic time warping.
+\newblock {\em {IN} {PROCEEDINGS} {OF} {THE} {FIRST} {CONFERENCE} {OF} {THE}
+  {ASSOCIATION} {FOR} {MACHINE} {TRANSLATION} {IN} {THE} {AMERICAS,} 81--88},
+  p.\ 81----88.
+
+\bibitem[\protect\citename{Simard {\em et~al.}, }1993]{simard_using_1993}
+{\sc Simard M., Foster G.~F. \& Isabelle P.} (1993).
+\newblock Using cognates to align sentences in bilingual corpora.
+\newblock In {\em Proceedings of the 1993 conference of the Centre for Advanced
+  Studies on Collaborative research: distributed computing - Volume 2}, p.\
+  1071--1082, Toronto, Ontario, Canada: {IBM} Press.
+
+\end{thebibliography}
